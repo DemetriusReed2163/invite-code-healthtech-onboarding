@@ -1,0 +1,11 @@
+{
+  "name": "invite-code-healthtech-onboarding",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test src/invite_onboarding.test.ts"
+  },
+  "dependencies": {
+    "zod": "^3.23.8"
+  }
+}
